@@ -2,7 +2,7 @@
 
 Currently trying to figure out GitHub 👺
 
-#### <u>Keywords:<\u>
+#### <u>Keywords:
   Tableau, Power BI, Office 365, rStudio, Python and more to come. 
 
 <!---
